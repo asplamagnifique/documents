@@ -62,3 +62,28 @@ Tous les frais validés dans le budget.
 | __Déplacement__ : transport en commun, frais kilométriques, stationnement, location de véhicule, ... | __cas particulier__ : stationnement pour livraison urgente pour un événement, ou déplacement lors d’un scholarship |
 | __Téléphonie__ : connexion mobile, fixe, abonnement internet, frais supplémentaire liés à la téléphonie, accès wifi payant, ... | __cas particulier__ : accès à un réseau pour une réunion organisée par l’association pour le membre réalisant la transmission |
 | __Hébergement__ : réservation d’hotel, location d’appartement, ...  | __as particulier__ : hébergement pour un invité d’un événement |
+
+## Article 2) Organisation des activités de l'association
+
+### Groupes locaux
+
+Localement, un groupe d'utilisateurs peut être composé. Ce groupe est chargé d'organiser sur un territoire défini des actions liées à l'association.
+
+Sera nommé un responsable du groupe, il portera localement la responsabilité et la charge de coordination de ce groupe.
+Le responsable veillera à respecter et faire respecter ce présent règlement intérieur. Il devra être adhérent à jour de sa cotisation.
+Le responsable pourra organiser tout événement relatifs aux missions de l'association, comme un Meetup, une conférence ou une soirée.
+Le responsable ne pourra engager la responsabilité ou les finances de l'association sans la validation du Bureau.
+
+Seulement avec l'accord du Bureau, le responsable peut organiser ou coordonner un événement local, dont l'entrée est payant et qui engage les finances de l'association.
+Dans le cas où l'organisation de l'événement nécessite des fonds ou un paiement, le responsable devra faire valider par le Bureau en amont de la dépense, celle-ci.
+
+Le responsable pourra coordonner une équipe d'organisation du groupe local, afin de l'aider dans ses tâches de coordination et de mise en place d'événement local.
+Il pourra demander l'aide du Bureau pour bénéficier d'une communication nationale autours des évènements qu'il organise.
+Tout comme le Bureau mettra à disposition du responsable des éléments pour l'aider dans ses actions, le responsable mettre à disposition du bureau les éléments relatifs à ses actions.
+
+### Organisation d'événements
+
+Tout groupe local peut supporter l'organisation d'un événement, qu'il soit gratuit ou non.
+Dans le cas d'un événement nécessitant l'accès aux finances de l'association, le Bureau devra valider en amont de l'organisation cet événement.
+
+Le Bureau peut aussi être à l'origine d'un appel à candidature pour l'organisation d'un événement.
